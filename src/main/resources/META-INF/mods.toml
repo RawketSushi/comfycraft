@@ -1,0 +1,46 @@
+modLoader="javafml"
+
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]] #mandatory
+
+modId="comfycraft"
+
+version="1.15.2-1.0"
+
+displayName="Comfy Craft"
+
+updateJSONURL="http://myurl.me/"
+
+displayURL="http://examplemod.com/"
+
+logoFile="examplemod.png"
+
+credits="Thanks for this example mod goes to Java"
+
+authors="RawketSushi"
+
+description='''
+Strap yourself in and get ready to wriggle! Because you'll need to to get free! Comfy Craft allows you to entrap you and your friends for some frisky fun!
+'''
+
+[[dependencies.comfycraft]]
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

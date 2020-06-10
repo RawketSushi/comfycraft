@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "minecraft:pig"
+    }
+  ],
+  "checkItem": "minecraft:porkchop",
+  "numCheck": 1,
+  "addItem": "comfycraft:hoof"
+}

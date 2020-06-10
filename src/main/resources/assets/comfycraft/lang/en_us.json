@@ -1,0 +1,26 @@
+{
+	"item.comfycraft.sticky_tape": "Sticky Tape",
+	"item.comfycraft.white_sticky_tape": "Sticky Tape",
+	"item.comfycraft.grey_sticky_tape": "Sticky Tape",
+	"item.comfycraft.dark_grey_sticky_tape": "Sticky Tape",
+	"item.comfycraft.black_sticky_tape": "Sticky Tape",
+	"item.comfycraft.red_sticky_tape": "Sticky Tape",
+	"item.comfycraft.orange_sticky_tape": "Sticky Tape",
+	"item.comfycraft.yellow_sticky_tape": "Sticky Tape",
+	"item.comfycraft.lime_sticky_tape": "Sticky Tape",
+	"item.comfycraft.green_sticky_tape": "Sticky Tape",
+	"item.comfycraft.cyan_sticky_tape": "Sticky Tape",
+	"item.comfycraft.light_blue_sticky_tape": "Sticky Tape",
+	"item.comfycraft.blue_sticky_tape": "Sticky Tape",
+	"item.comfycraft.purple_sticky_tape": "Sticky Tape",
+	"item.comfycraft.magenta_sticky_tape": "Sticky Tape",
+	"item.comfycraft.pink_sticky_tape": "Sticky Tape",
+	"item.comfycraft.jute_string": "Jute String",
+	"item.comfycraft.jute_rope": "Jute Rope",
+	"item.comfycraft.hoof": "Hoof",
+	
+	"block.comfycraft.sticky_glue_trap": "Sticky Glue Trap",
+	"block.comfycraft.jute_crop": "Jute Seeds",
+	
+	"itemGroup.comfygear": "Comfy Gear"
+}
